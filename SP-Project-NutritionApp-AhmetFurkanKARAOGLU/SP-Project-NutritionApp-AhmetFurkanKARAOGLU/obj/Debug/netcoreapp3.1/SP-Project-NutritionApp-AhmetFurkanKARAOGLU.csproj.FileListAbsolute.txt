@@ -1,0 +1,14 @@
+C:\Users\furka\source\repos\C#\School\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\bin\Debug\netcoreapp3.1\SP-Project-NutritionApp-AhmetFurkanKARAOGLU.exe
+C:\Users\furka\source\repos\C#\School\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\bin\Debug\netcoreapp3.1\SP-Project-NutritionApp-AhmetFurkanKARAOGLU.deps.json
+C:\Users\furka\source\repos\C#\School\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\bin\Debug\netcoreapp3.1\SP-Project-NutritionApp-AhmetFurkanKARAOGLU.runtimeconfig.json
+C:\Users\furka\source\repos\C#\School\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\bin\Debug\netcoreapp3.1\SP-Project-NutritionApp-AhmetFurkanKARAOGLU.runtimeconfig.dev.json
+C:\Users\furka\source\repos\C#\School\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\bin\Debug\netcoreapp3.1\SP-Project-NutritionApp-AhmetFurkanKARAOGLU.dll
+C:\Users\furka\source\repos\C#\School\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\bin\Debug\netcoreapp3.1\SP-Project-NutritionApp-AhmetFurkanKARAOGLU.pdb
+C:\Users\furka\source\repos\C#\School\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\obj\Debug\netcoreapp3.1\SP-Project-NutritionApp-AhmetFurkanKARAOGLU.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\C#\School\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\obj\Debug\netcoreapp3.1\SP-Project-NutritionApp-AhmetFurkanKARAOGLU.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\C#\School\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\obj\Debug\netcoreapp3.1\SP-Project-NutritionApp-AhmetFurkanKARAOGLU.AssemblyInfo.cs
+C:\Users\furka\source\repos\C#\School\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\obj\Debug\netcoreapp3.1\SP-Project-NutritionApp-AhmetFurkanKARAOGLU.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\C#\School\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\obj\Debug\netcoreapp3.1\SP-Project-NutritionApp-AhmetFurkanKARAOGLU.dll
+C:\Users\furka\source\repos\C#\School\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\obj\Debug\netcoreapp3.1\SP-Project-NutritionApp-AhmetFurkanKARAOGLU.pdb
+C:\Users\furka\source\repos\C#\School\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\obj\Debug\netcoreapp3.1\SP-Project-NutritionApp-AhmetFurkanKARAOGLU.genruntimeconfig.cache
+C:\Users\furka\source\repos\C#\School\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\SP-Project-NutritionApp-AhmetFurkanKARAOGLU\obj\Debug\netcoreapp3.1\SP-Project-NutritionApp-AhmetFurkanKARAOGLU.GeneratedMSBuildEditorConfig.editorconfig
